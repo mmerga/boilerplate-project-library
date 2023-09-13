@@ -5,7 +5,7 @@
 *       
 *       
 */
-
+//// do not forget .env MONGO_URI=urlmongoatlas and NODE_ENV=test
 'use strict';
 const express = require('express');
 const bodyParser = require('body-parser');
